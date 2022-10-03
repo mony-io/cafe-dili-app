@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Silkscreen", cursive;
+}
+
+body {
+  margin: 0;
+  background-color: #eeebdd;
+}
